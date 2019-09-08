@@ -2,7 +2,7 @@
 #########################################
 # Generate Shortcut for lxqt"           #
 # Author: Wanzerdata"                   #
-# Data:  08.09.2019"		                #
+# Data:  08.09.2019"		          #
 #########################################
 
 zenity  --info --title "Shortcut" --text "Follow the instructions to generate a desktop shortcut" --width 150
