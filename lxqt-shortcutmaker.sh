@@ -1,7 +1,7 @@
 #!/bin/bash 
 #########################################
 # Generate Shortcut for lxqt"           #
-# Author: Rodrigo "Wanzerdata"Lombardi" #
+# Author: Wanzerdata"                   #
 # Data:  08.09.2019"		                #
 #########################################
 
