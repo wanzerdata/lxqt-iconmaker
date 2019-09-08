@@ -1,9 +1,9 @@
 #!/bin/bash 
-###############################
-# Generate Shortcut for lxqt" #
-# Author: Rodrigo T Lombardi" #
-# Data:  08.09.2019"		  #
-###############################
+#########################################
+# Generate Shortcut for lxqt"           #
+# Author: Rodrigo "Wanzerdata"Lombardi" #
+# Data:  08.09.2019"		                #
+#########################################
 
 zenity  --info --title "Shortcut" --text "Follow the instructions to generate a desktop shortcut" --width 150
 nome=$(zenity --title "Name" --text "Type the name of the shortcut" --entry)
